@@ -1,5 +1,5 @@
-# GoStack - Módulo 1 - Desafio 4 - Conceitos do React Native
+# GoStack - Módulo 1 - Desafio 2 - Conceitos do Node.js
 
-Projeto criado para colocar em prática os conceitos do React Native visto no módulo 1 da GoStack da RocketSeat.
+Projeto criado para colocar em prática os conceitos do Node.js visto no módulo 1 da GoStack da RocketSeat.
 
-Link do Desafio: https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native
+Link do Desafio: https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs
